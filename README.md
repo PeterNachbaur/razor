@@ -1,4 +1,4 @@
-Keen Razor
+Keen Razor (DEPRECATED / NOT IN USE)
 ==========
 
 Because razors cut to the quick and that's what we want with monitoring or something.
